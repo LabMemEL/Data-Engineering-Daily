@@ -1,0 +1,65 @@
+General DE Tools Guide--by Insight
+https://github.com/InsightDataScience/data-engineering-ecosystem/wiki
+
+http://xyz.insightdataengineering.com/blog/pipeline_map/
+Good catalog & ecosystem map, but both 2+years old. There are new frameworks like Kafka Stream & Pulsar. DE teams at companies also mention techs like Kubernetes, Airflow sometimes.
+
+Scala, Kafka, Spark & ElasticSearch
+
+Twitter Scala School
+https://twitter.github.io/scala_school/
+Everything from "Basics" to "Advanced Types"
+
+Official Scala Tour
+https://docs.scala-lang.org/tour/tour-of-scala.html
+The official guide to the language that explains pretty much all of the features.
+
+Scala Best Practices by Alexandru Nedelcu
+https://github.com/alexandru/scala-best-practices
+A series of Scala best practices that helps differentiate Scala as a language unto itself rather than just a "better Java".
+
+Demystifying the Monad in Scala
+https://medium.com/free-code-camp/demystifying-the-monad-in-scala-cc716bb6f534
+A good explanation of monads, which are a type of object that comes up a lot in Scala.
+
+Li Haoyi's Programming Blog
+http://www.lihaoyi.com/
+
+Spark RDD Programming Guide
+https://spark.apache.org/docs/latest/rdd-programming-guide.html
+
+Spark Streaming Programming Guide
+https://spark.apache.org/docs/latest/streaming-programming-guide.html
+
+Spark Structure Streaming Programming Guide
+https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#overview
+Note that it uses Spark SQL and seemingly with features different from DStream like event-time processing
+
+Elasticsearch Query DSL (note that we're using version 2.4)
+https://www.elastic.co/guide/en/elasticsearch/reference/2.4/query-dsl.html
+
+Confluent Kafka Blogs
+https://www.confluent.io/blog/
+Books
+Functional Programming in Scala by Paul Chiusano and Runar Bjarnason
+
+Scala for the Impatient by Cay Horstmann
+
+Podcasts
+SE Daily: https://softwareengineeringdaily.com/category/data/
+The DE Podcast: https://www.dataengineeringpodcast.com/
+
+
+
+Prep Materials:
+
+General DE Interview Rounds: Algos, Sys design, ETL sys design, SQL/Data Modeling, etc.
+
+General System Design
+Template Copy of System Design Template By Topcat [invalid]
+Github https://github.com/donnemartin/system-design-primer
+Cookbook  https://github.com/andkret/Cookbook
+Doc System design interview prep book [invalid]
+Video https://www.youtube.com/watch?v=UzLMhqg3_Wc&feature=youtu.be
+ETL Sys Design
+Designing Data-Intensive Applications
